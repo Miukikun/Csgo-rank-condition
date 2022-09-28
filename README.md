@@ -1,12 +1,5 @@
 # Csgo-random-ranked-condition
 
-
-
-
-
-
-
-
 #include <iostream>
 int main()
 {	int W = 0;
