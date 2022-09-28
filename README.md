@@ -1,10 +1,15 @@
-# Csgo-rank-condition
+# Csgo-random-ranked-condition
+
+
+
+
+
+
 
 
 #include <iostream>
 int main()
-{
-	int W = 0;
+{	int W = 0;
 	std::cout << "How many match did you win :";
 	std::cin >> W;
 	int L = 0;
