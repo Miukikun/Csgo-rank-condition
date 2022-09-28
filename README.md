@@ -1,5 +1,6 @@
 # Csgo-rank-condition
-Juste du conditionnel
+
+
 #include <iostream>
 int main()
 {
