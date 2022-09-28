@@ -1,4 +1,4 @@
-# Csgo-rank-condition
+
 
 
 #include <iostream>
